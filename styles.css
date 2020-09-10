@@ -1,0 +1,81 @@
+body{
+margin:0;
+padding:0;
+background-color:wheat;
+}
+.nav ul{
+list-style: none;
+background:white;
+text-align:center;
+padding:0;
+margin:0;
+}
+.nav li{
+    display:inline-block;
+}
+.nav a{
+    text-decoration: none;
+    color:black;
+    width:100px;
+    display:block;
+    padding:20px;
+    font-size:20px;
+    font-family:'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    
+}
+h1{
+    text-align:20px right;
+    border-inline-color:black;
+    font-size:bold;
+    padding:50px;
+    text-align:center;
+    text-decoration:underline;
+    color:black;
+}
+#welcome{
+    font-size:30px;
+    font-family:'Courier New';
+    text-align:center;
+}
+img{
+    border-left-width: 100px;
+}
+#about p{
+    font-size:18px;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+}
+h2{
+    font-size:24px;
+    text-align: center;
+    font-weight:bold;
+    text-transform: uppercase;
+}
+#img{
+    border-left-width: 100px;
+    text-align: center;
+}
+#services{
+    font-family:'Courier New', Courier, monospace;
+    font-size:18px;
+    text-align:center;
+}
+#contacts p{
+    font-family:'Courier New', Courier, monospace;
+    font-size:18px;
+    text-align:center;
+    padding:10px;
+}
+#footer{
+    background-color:white;
+    border:50px white solid;
+}
+
+
+
+
+
+
+
+
